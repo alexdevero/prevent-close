@@ -39,8 +39,8 @@
     "start": "",
     "build": "html-minifier --input-dir src --output-dir dist --collapse-whitespace --remove-comments --minify-js --minify-css"
   },
-  "devDependencies": {},
-  "dependencies": {
+  "devDependencies": {
     "html-minifier": "^3.5.12"
-  }
+  },
+  "dependencies": {}
 }
