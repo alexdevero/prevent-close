@@ -1,6 +1,6 @@
 {
   "name": "prevent-close",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple website preventing browser from closing the window.",
   "license": "MIT",
   "private": false,
